@@ -240,7 +240,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("../images/home-bg.jpg") repeat scroll left center / cover;
+  background: url("../images/home-bg.jpg") repeat scroll 60% center / cover;
   height: 100vh;
   width: 100%;
 }
